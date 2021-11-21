@@ -4,11 +4,11 @@ Tercüme çalışmalarının yapıldığı referens sayfa: https://solvespace.co
 
 Solvespace Başvuru Kılavuzu
 
-	Bu, SolveSpace için bir başvuru kılavuzudur. Programa giriş niteliğinde (Çizim ve Modelleme öğretme amaçlı) değildir; Bunun için öğreticilere bakın.
+Bu, SolveSpace için bir başvuru kılavuzudur. Programa giriş niteliğinde (Çizim ve Modelleme öğretme amaçlı) değildir; Bunun için öğreticilere bakın.
 
 Genel Navigasyon/Gezinim
 
-	Kullanıcı arayüzü iki pencereden oluşur: Çoğunlukla grafik içeren büyük bir pencere (Grafik Penceresi) ve çoğunlukla metin içeren daha küçük bir pencere (Özellikler penceresi). Grafik penceresi geometriyi çizmek ve 3 boyutlu modeli görüntülemek için kullanılır. Özellikler penceresi model hakkında bilgi sağlar ve ayrıca ayarları ve sayısal parametreleri değiştirmek için kullanılabilir. 
+Kullanıcı arayüzü iki pencereden oluşur: Çoğunlukla grafik içeren büyük bir pencere (Grafik Penceresi) ve çoğunlukla metin içeren daha küçük bir pencere (Özellikler penceresi). Grafik penceresi geometriyi çizmek ve 3 boyutlu modeli görüntülemek için kullanılır. Özellikler penceresi model hakkında bilgi sağlar ve ayrıca ayarları ve sayısal parametreleri değiştirmek için kullanılabilir. 
 
 Grafik Penceresi ve Model Görünümü
 Görünümü kaydırmak için Fareyi sağ tuşuna (butonuna) basarak sürükleyin.  
