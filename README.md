@@ -9,3 +9,5 @@ Solvespace'i kullanarak oluşturduğum 3D çizimleri "Cizim Ornekleri (Examples)
 Çalışma, Umarım sizler için faydalı olur.
 
 https://github.com/mhalil/Solvespace_basvuru_kilavuzu/wiki
+
+![Basvuru Kilavuz](https://github.com/mhalil/Solvespace_basvuru_kilavuzu/blob/main/grafikler/000%20SolveSpace_Basvuru_Kilavuzu.png)
